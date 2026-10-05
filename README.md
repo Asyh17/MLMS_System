@@ -6,7 +6,7 @@ A robust, enterprise-grade, role-based web application designed to streamline la
 
 
 
-\## 🚀 Tech Stack
+\## Tech Stack
 
 \* \*\*Architecture:\*\* Jakarta EE, Model-View-Controller (MVC) Pattern
 
@@ -24,7 +24,7 @@ A robust, enterprise-grade, role-based web application designed to streamline la
 
 
 
-\## 👥 Role-Based Access Control (RBAC) \& Portals
+\##  Role-Based Access Control (RBAC) \& Portals
 
 The system features a granular authorization architecture separating user capabilities into four distinct portals:
 
@@ -62,7 +62,7 @@ The system features a granular authorization architecture separating user capabi
 
 
 
-\## ✨ Core Technical Highlights
+\##  Core Technical Highlights
 
 \* \*\*Dynamic QR Token Engine:\*\* Generates secure, time-sensitive session tokens mapped through clean servlet routing to manage instant attendance check-ins.
 
@@ -78,7 +78,7 @@ The system features a granular authorization architecture separating user capabi
 
 
 
-\## 📦 Setup and Installation Instructions
+\## Setup and Installation Instructions
 
 
 
